@@ -236,17 +236,18 @@ font-family: 'Courier New', Courier, monospace;
     margin: 10px;
     border: none;
     border-bottom: 3px solid #1995AD;
-
+    border-radius: 10px;
 }
 .single-contact textarea{
     width: 88%;
     height: 120px;
     border: none;
     border-bottom: 3px solid #1995AD;
+    border-radius: 10px;
 }
 .single-contact input:last-child{
     border: none;
-    width: 30%;
+    width: 25%;
     border-radius: 10px;
     background-color: #1995AD;
     color: #f7f4f4;
