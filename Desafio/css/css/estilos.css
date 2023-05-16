@@ -150,6 +150,7 @@ font-family: 'Courier New', Courier, monospace;
 .single-about img{
     width: 50%;
     object-fit: cover;
+    box-shadow: 3px 3px 5px 4px aqua;
 }
 .single-about h2{
     font-size: 40px;
@@ -195,7 +196,7 @@ font-family: 'Courier New', Courier, monospace;
     width: 108%;
     padding: 9%;
     height: 210px;
-   
+    
     
 
 }
@@ -230,6 +231,7 @@ font-family: 'Courier New', Courier, monospace;
     background-size: cover;
     background-position: center center;
     position: relative;
+    box-shadow: 3px 3px 5px 4px aqua;
 }
 
 
@@ -284,6 +286,9 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 
+
+
+
 .single-contact2{
     display: flex;
     flex-direction: column;
@@ -307,6 +312,8 @@ font-family: 'Courier New', Courier, monospace;
     border-radius: 10px;
     background-color: white;
     color: black;
+   
+
 }
 .single-contact2 input:last-child:hover{
     background-color: aqua;
@@ -321,6 +328,7 @@ footer{
     line-height: 2;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
 }
 
 
@@ -397,7 +405,10 @@ footer{
     padding: 10%;
     height: 300px;
 }
-
+.header__container ul li img {
+    width: 30%;
+    transition: all 0.4s;
+}
 
 }
 @media (max-width:480px) {
@@ -426,16 +437,4 @@ footer{
     }
 
 }
-@media (max-width: 640px){
-    .service-content img {
-        width: 100%;
-        padding: 10%;
-        height: 300px;
-    }
 
-    .header__container ul li img {
-        width: 30%;
-        transition: all 0.4s;
-    }
-
-}
