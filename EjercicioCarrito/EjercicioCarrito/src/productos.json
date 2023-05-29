@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cafetera",
+    "descripcion": "La cafetera OSTER de 12 tazas con filtro permanente permite disfrutar de una taza de café recién hecha al momento que desees. Con su función de pausa y servir, también puedes servir una taza de café durante el proceso de colado, para disfrutar del rico sabor al momento que desees",
+    "precio": 205000, 
+    "image": "/src/images/Cafetera.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Nevera",
+    "descripcion": " Su diseño moderno, elegante y sobrio proporciona una atractiva apariencia y mayor espacio interno. Lúmina se adapta a todas las necesidades, con la nevera CR249 tienes una nevera No Frost de 231 litros especial para pequeños espacios aprovechando al máximo todas las carácterísticas destacadas de una nevera pensada para ti.",
+    "precio": 1800582,
+    "image": "/src/images/nevera.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Lavadora",
+    "descripcion": "Cuenta con motor Digital Inverter con 20 años de garantía. Con la función Speed Spray™ ahorrarás agua en el enjuague, ya que su función principal es arrojar potentes chorros de agua en la ropa mientras se enjuaga para eliminar la espuma y el jabón de forma rápida y eficaz, reduce el tiempo de lavado en un 25 %* y, a su vez, usa 29 litros menos de agua* y un 25 % menos de energía adicional.",
+    "precio": 1500999,
+    "image": "/src/images/lavadora.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Licuadora",
+    "descripcion": "La Licuadora Infiny Force de Imusa, cuenta con un motor de alta velocidad y 10 funciones diferentes más la función pulso, que garantizan un control total de las preparaciones y consistencias diferentes en las recetas. Por su vaso de vidrio de gran capacidad permite la preparación de licuados de hasta 1.75 litros. Su diseño en vidrio asegura la no absorción de olores de alimentos, ni decoloración del vaso.",
+    "precio": 150482,
+    "image": "/src/images/licuadora.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Estufa",
+    "descripcion": "Estufa HACEB con mesa en acero inoxidable y encendido eléctrico, negra, el color que mejor contrasta en las cocinas colombianas. Con cuatro fogones de diferentes tamaños para versatilidad en la cocción, parrilla contínua antideslizante que da estabilidad a los recipientes y horno de gran capacidad con visor amplio para hacer seguimiento a sus recetas. ",
+    "precio": 842553,
+    "image": "/src/images/estufa.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Ventilador",
+    "descripcion": "Este ventilador de 18 pulgadas cuenta con 3 velocidades que permiten elegir el flujo de aire deseado. Teniendo en cuenta que sus niveles de ruido son bajos. Tiene un potente flujo de aire, ya que su motor es de 70W. Sus Mallas son muy seguras ya que no entran en contacto con sus helices. Además, sus mallas frontales son removibles, facilitando la limpieza de los mismos. Cuentan con una oscilación vertical para una mayor y mejor distibución del aire. cuentan con un fácil y seguro sistema que permite ajustar la inclinación vertical.",
+    "precio": 120632,
+    "image": "/src/images/ventilador.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Aire Acondicionado",
+    "descripcion": "Con el aire acondicionado MABE 12000 BTU Tipo Split Inverter blanco y gracias a la tecnología Ultra Clean Air respira con frescura y tranquilidad. Cuenta con una garantia de 6 años en compresor y de 2 años en componentes, ademas de un sistema de filtro Bio y Silver Ion, tubería totalmente en cobre.",
+    "precio": 902556,
+    "image": "/src/images/aire_acondicionado.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Freidora",
+    "descripcion": "Te presentamos La freidora de aire OSTER con capacidad extra grande de 9L con revestimiento antiadherente DiamondForce, perfecta para toda la familia, ademas cuenta con un panel digital, 6 funciones preprogramadas para cocinar papas fritas, pollo, pescado, carne, pizza, y hornear y mucho mas! , Incluye una bandeja de freír con aire extraible con revestimiento antiadherente DiamondForce para más espacio y una fácil limpieza. Prueba ya la tuya, y comparte en familia grandes momentos!",
+    "precio": 250665,
+    "image": "/src/images/freidora.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Aspiradora",
+    "descripcion": "Aspiradora KARCHER (amarilla) VC1 para polvo, pequeña, compacta, ideal para la casa, ahora podrás aspirar pisos láminados sin preocuparte de rayarlos porque ahora incluye la boquilla para esta clases de pisos, regula la potencia de aspiración con un simple botón y ahorra dinero porque su bolsa es reutilizable.",
+    "precio": 405265,
+    "image": "/src/images/aspiradora.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Equipo de Sonido",
+    "descripcion": "Aumenta el volumen de tu fiesta con el exclusivo SAMSUNG Giga Party Audio MX-T70.| Expande los beats con este equipo y disfruta de una potente experiencia de sonido envolvente. Haz vibrar las paredes con su sonido bidireccional y su woofer que intensifica los bajos.",
+    "precio": 2365559,
+    "image": "/src/images/equipo_sonido.jpg"
+  }
+]
